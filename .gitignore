@@ -1,0 +1,4 @@
+/.venv
+.env
+Инструкция по установке.docx
+db.sqlite3
