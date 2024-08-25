@@ -2,3 +2,5 @@
 .env
 Инструкция по установке.docx
 db.sqlite3
+*.docx
+.DS_Store
