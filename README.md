@@ -58,9 +58,5 @@ ___
 
 Список файлов  
 
-![screen shot](images/main.png)
-
-Личная информация 
-
-![screen shot](images/myfiles.png)  
+![screen shot](images/myfiles.png)
 
