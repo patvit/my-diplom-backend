@@ -50,17 +50,17 @@ python manage.py runserver
 ___ 
 Панель администратора
 
-![screen shot](images/admin.jpeg) 
+![screen shot](images/admin.png) 
 
 Вход или Регистрация  
 
-![screen shot](images/auth.png)  
+![screen shot](images/main.png)  
 
 Список файлов  
 
-![screen shot](images/main.jpeg)
+![screen shot](images/main.png)
 
 Личная информация 
 
-![screen shot](images/info.jpeg)  
+![screen shot](images/myfiles.png)  
 
