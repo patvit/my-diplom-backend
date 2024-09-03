@@ -49,7 +49,7 @@ python manage.py createsuperuser
 ```
 python manage.py runserver
 ```
-### Скриншот страницы
+### Скриншот страницы (картинки находятся в папке images)
 ___ 
 Панель администратора
 
